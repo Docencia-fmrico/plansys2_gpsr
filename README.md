@@ -1,4 +1,4 @@
-# plansys2_patrol
+# plansys2_gpsr
 
 Ejercicio 4 de Planificación y Sistemas Cognitivos 2023
 
