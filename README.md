@@ -12,5 +12,6 @@ En grupos de 4, haced una aplicación en ROS 2 usando PlanSys2 que use el domini
 Puntuación (sobre 10):   
 * +5 correcto funcionamiento en el robot simulado.
 * +2 Readme.md bien documentado con videos.
+* +3 Si podéis abortar plan cuando aparezca una tarea de más prioridad.
 * +2 CI con Test de los nodos BT
 * -3 Warnings o que no pase los tests.
